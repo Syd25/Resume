@@ -1,3 +1,3 @@
 # FrontEnd-Deployment
-Repo(Pvt) for front-end deployment
+A basic resume site
 Static page
